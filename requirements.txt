@@ -1,4 +1,4 @@
-python==3.9
+#python==3.9
 tensorflow<2.11
 numpy<2.0.0
 matplotlib
