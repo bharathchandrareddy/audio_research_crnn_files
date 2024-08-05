@@ -1,7 +1,7 @@
 #ignore mlruns folder
 mlruns/
 *.pth
-models/*
+model_weights/*
 logs/*
 .vscode/settings.json
 
