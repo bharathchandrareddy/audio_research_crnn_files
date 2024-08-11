@@ -4,7 +4,7 @@ mlruns/
 model_weights/*
 logs/*
 .vscode/settings.json
-
+references/
 ##Jupyter notebooks##
 .ipynb_chekcpoints
 */.ipynb_chekcpoints/*
